@@ -1,0 +1,56 @@
+# ------------------------------
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# ------------------------------
+# IDEs and Editors
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/          # Safe to ignore if you're not sharing launch configs
+
+# ------------------------------
+# Flutter / Dart / Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# ------------------------------
+# Firebase (Important!)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Optional: if you're generating firebase_options.dart dynamically or want to hide it
+lib/firebase_options.dart.orig
+
+# ------------------------------
+# Symbolication / Obfuscation
+app.*.symbols
+app.*.map.json
+
+# ------------------------------
+# Android-specific
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# ------------------------------
+# Env or Config Files
+.env
+.env.*
