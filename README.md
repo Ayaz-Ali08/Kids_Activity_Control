@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kids_activity_control
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Kids_Activity_Control
+A Parental Control App
+>>>>>>> 6ae34da07ac0b02d79d2063d148713116f25d51e
