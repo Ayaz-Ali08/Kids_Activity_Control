@@ -1,21 +1,49 @@
-<<<<<<< HEAD
-# kids_activity_control
+# 👨‍👩‍👧 Kids Activity Control
 
-A new Flutter project.
+Kids Activity Control is a parental monitoring Flutter application that helps parents track their child's device usage in real time. It offers essential features like:
 
-## Getting Started
+- 🔋 Battery level monitoring
+- 📍 Live location tracking
+- 🕒 Screen time usage
+- 📱 App usage statistics
+- 🌐 Web activity logging
 
-This project is a starting point for a Flutter application.
+The app is designed for **both Parent and Child devices**, providing a tailored experience for each user type. It uses Firebase for authentication and real-time data synchronization.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧠 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Kids_Activity_Control
-A Parental Control App
->>>>>>> 6ae34da07ac0b02d79d2063d148713116f25d51e
+| Feature         | Description                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| 👨‍👧 User Role Selection | Choose between "Parent" and "Child" on first launch                     |
+| 🔋 Battery Monitor | View the child's current battery level remotely                         |
+| 🗺️ Location History | Track and review recent child locations with reverse geocoded addresses |
+| 🕒 Screen Time     | Monitor how much time the child spends using their device               |
+| 📱 App Usage       | See detailed usage stats per app                                          |
+| 🌐 Web Activity    | Log and view visited URLs from the child's device                       |
+
+---
+
+## 📸 Screenshots
+
+> _Add screenshots below using GitHub’s issue upload method. Replace these placeholders with real links._
+
+![Parent Dashboard](https://user-images.githubusercontent.com/.../screenshot1.png)
+![Child WebView](https://user-images.githubusercontent.com/.../screenshot2.png)
+![Location Map](https://user-images.githubusercontent.com/.../screenshot3.png)
+![App Usage Stats](https://user-images.githubusercontent.com/.../screenshot4.png)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Prerequisites
+- Flutter SDK
+- Firebase project (configured via `firebase_options.dart`)
+- Android device (location tracking and app usage requires Android)
+
+### 2. Clone the Repository
+```bash
+git clone https://github.com/Ayaz-Ali08/Kids_Activity_Control.git
+cd Kids_Activity_Control
