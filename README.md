@@ -29,7 +29,7 @@ The app is designed for **both Parent and Child devices**, providing a tailored 
 
 > _Add screenshots below using GitHub’s issue upload method. Replace these placeholders with real links._
 
-![Parent Dashboard](https://user-images.githubusercontent.com/.../screenshot1.png)
+[Image](https://github.com/user-attachments/assets/4df6e0cf-200f-4c96-bfda-da4ef65e8d45)
 ![Child WebView](https://user-images.githubusercontent.com/.../screenshot2.png)
 ![Location Map](https://user-images.githubusercontent.com/.../screenshot3.png)
 ![App Usage Stats](https://user-images.githubusercontent.com/.../screenshot4.png)
